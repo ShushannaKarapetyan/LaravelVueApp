@@ -32,9 +32,9 @@
                                     <div class="count-circle">0</div>
                                     <img src="../../img/shopping-bag.png" alt="Bag">
                                 </li>
-                                <li>
+                               <!-- <li>
                                     <img src="https://img.icons8.com/ios/64/000000/settings.png">
-                                </li>
+                                </li>-->
                             </ul>
                         </div>
                     </div>
